@@ -21,7 +21,7 @@ A research companion for machine learning practitioners — discover papers, aud
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone 
 
 # Navigate to project
 cd neuroguide
