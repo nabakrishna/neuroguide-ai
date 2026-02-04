@@ -31,3 +31,6 @@ npm install
 
 # Start development server
 npm run dev
+```
+
+## It's still in devloping condition
