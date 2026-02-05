@@ -146,7 +146,7 @@ All tables are protected with **Row Level Security (RLS)** policies ensuring use
 | **React Hook Form** | Form management |
 | **Zod** | Schema validation |
 
-### Backend (Lovable Cloud)
+### Backend 
 | Technology | Purpose |
 |------------|---------|
 | **Supabase** | Backend-as-a-Service |
@@ -163,6 +163,7 @@ All tables are protected with **Row Level Security (RLS)** policies ensuring use
 neuroguide/
 ├── public/                    # Static assets
 │   ├── og-image.png          # Social sharing image
+│   ├── 
 │   └── favicon.ico
 ├── src/
 │   ├── components/
@@ -184,7 +185,15 @@ neuroguide/
 │   ├── functions/
 │   │   └── chat/             # Chat Edge Function
 │   └── config.toml           # Supabase configuration
+├── index.html
+├──
+├──
+├──
+├──
+├──
+├── 
 └── index.html
+
 ```
 
 ---
