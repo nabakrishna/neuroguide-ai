@@ -25,21 +25,21 @@ NeuroGuide is an intelligent assistant designed to help ML practitioners navigat
 │                            Backend                              │
 │  ┌─────────────────────────────────────────────────────────┐    │
 │  │              Multi-Agent Orchestration Layer            │    │
-│  │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐   │    │
-│  │  │  Router  │ │  Data    │ │  Scholar │ │   Code   │   │    │
-│  │  │  Agent   │ │ Engineer │ │  Agent   │ │Generator │   │    │
-│  │  └──────────┘ └──────────┘ └──────────┘ └──────────┘   │    │
+│  │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐    │    │
+│  │  │  Router  │ │  Data    │ │  Scholar │ │   Code   │    │    │
+│  │  │  Agent   │ │ Engineer │ │  Agent   │ │Generator │    │    │
+│  │  └──────────┘ └──────────┘ └──────────┘ └──────────┘    │    │
 │  │                      ┌──────────┐                       │    │
 │  │                      │  Critic  │                       │    │
 │  │                      │  Agent   │                       │    │
 │  │                      └──────────┘                       │    │
 │  └─────────────────────────────────────────────────────────┘    │
-│                              │                                   │
+│                              │                                  │
 │  ┌───────────────────────────┴───────────────────────────┐      │
-│  │                    Edge Functions                      │      │
-│  │  • Chat API (streaming responses)                      │      │
-│  │  • Agent orchestration                                 │      │
-│  │  • External API integrations                           │      │
+│  │                    Edge Functions                     │     │
+│  │  • Chat API (streaming responses)                     │     │
+│  │  • Agent orchestration                                │     │
+│  │  • External API integrations                          │     │
 │  └───────────────────────────────────────────────────────┘      │
 │                              │                                   │
 │  ┌───────────────────────────┴───────────────────────────┐      │
