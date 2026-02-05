@@ -163,36 +163,56 @@ All tables are protected with **Row Level Security (RLS)** policies ensuring use
 neuroguide/
 ├── public/                    # Static assets
 │   ├── og-image.png          # Social sharing image
-│   ├── 
+│   ├── robot.txt
+│   ├── placeholder.svg 
 │   └── favicon.ico
 ├── src/
 │   ├── components/
 │   │   ├── chat/             # Chat interface components
 │   │   ├── dashboard/        # Dashboard widgets
 │   │   ├── layout/           # Layout components
-│   │   └── ui/               # shadcn/ui components
+│   │   ├── ui/               # shadcn/ui components
+│   │   └──NavLink.tsx
 │   ├── hooks/
+│   │   ├── use-mobile.tsx    # Responsive utilities
+│   │   ├── use-toast.ts
 │   │   ├── useAuth.tsx       # Authentication hook
 │   │   ├── useChat.ts        # Chat functionality
-│   │   ├── useProjects.ts    # Project CRUD operations
-│   │   └── use-mobile.tsx    # Responsive utilities
+│   │   └── useProjects.ts    # Project CRUD operations
 │   ├── integrations/
 │   │   └── supabase/         # Supabase client & types
 │   ├── pages/                # Route components
 │   ├── types/                # TypeScript interfaces
-│   └── lib/                  # Utility functions
+│   ├── lib/                  # Utility functions
+│   ├── test/
+│   ├── App.css
+│   ├── App.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   └── vite-env.d.ts
 ├── supabase/
 │   ├── functions/
 │   │   └── chat/             # Chat Edge Function
+│   ├──migrations/
 │   └── config.toml           # Supabase configuration
+├── index.html
+├── .env
+├── .gitignore
+├── README.md
+├── bun.lockb
+├── components.json
+├── eslint.config.js
 ├── index.html
 ├──
 ├──
 ├──
 ├──
 ├──
-├── 
-└── index.html
+├──
+├──
+├──
+├──
+└── vitest.config.ts
 
 ```
 
