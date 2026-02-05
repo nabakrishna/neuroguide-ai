@@ -203,15 +203,15 @@ neuroguide/
 ├── components.json
 ├── eslint.config.js
 ├── index.html
-├──
-├──
-├──
-├──
-├──
-├──
-├──
-├──
-├──
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vercel.json
+├── vite.config.ts
 └── vitest.config.ts
 
 ```
@@ -332,7 +332,3 @@ npm run test -- --coverage
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<p align="center">
-  Made with ❤️ for the ML community
-</p>
