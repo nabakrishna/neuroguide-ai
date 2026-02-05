@@ -36,18 +36,18 @@ NeuroGuide is an intelligent assistant designed to help ML practitioners navigat
 │  └─────────────────────────────────────────────────────────┘    │
 │                              │                                  │
 │  ┌───────────────────────────┴───────────────────────────┐      │
-│  │                    Edge Functions                     │     │
-│  │  • Chat API (streaming responses)                     │     │
-│  │  • Agent orchestration                                │     │
-│  │  • External API integrations                          │     │
+│  │                    Edge Functions                     │      │
+│  │  • Chat API (streaming responses)                     │      │
+│  │  • Agent orchestration                                │      │
+│  │  • External API integrations                          │      │
 │  └───────────────────────────────────────────────────────┘      │
-│                              │                                   │
+│                              │                                  │
 │  ┌───────────────────────────┴───────────────────────────┐      │
-│  │              PostgreSQL Database                       │      │
-│  │  • User profiles & preferences                         │      │
-│  │  • Projects & conversations                            │      │
-│  │  • Message history with metadata                       │      │
-│  │  • Row Level Security (RLS) policies                   │      │
+│  │              PostgreSQL Database                      │      │
+│  │  • User profiles & preferences                        │      │
+│  │  • Projects & conversations                           │      │
+│  │  • Message history with metadata                      │      │
+│  │  • Row Level Security (RLS) policies                  │      │
 │  └───────────────────────────────────────────────────────┘      │
 └─────────────────────────────────────────────────────────────────┘
 ```
