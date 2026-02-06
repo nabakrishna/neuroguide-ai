@@ -5,7 +5,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { AuthProvider, useAuth } from "@/hooks/useAuth";
 import { ReactNode } from "react";
-
+//one of the helliest code ever that i ever work 
 // Pages
 import LandingPage from "./pages/Landing";
 import LoginPage from "./pages/Login";
