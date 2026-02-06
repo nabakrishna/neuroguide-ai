@@ -1,3 +1,6 @@
+//for now the email and ph no authentication not impemented so ....
+//just going with simple way
+
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { User, Session } from '@supabase/supabase-js';
 import { supabase } from '@/integrations/supabase/client';
