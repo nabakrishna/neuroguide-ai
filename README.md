@@ -322,7 +322,7 @@ npm run test -- --coverage
 
 ## 📦 Deployment
 
-
+Demo live on: neuroguide-ai.vercel.app
 
 ---
 
@@ -332,3 +332,5 @@ npm run test -- --coverage
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## still in devlopment
