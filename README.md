@@ -193,10 +193,9 @@ neuroguide/
 ├── supabase/
 │   ├── functions/
 │   │   └── chat/             # Chat Edge Function
-│   ├──migrations/
+│   ├──migrations/            # Database, sql files
 │   └── config.toml           # Supabase configuration
-├── index.html
-├── .env
+├── .env                      
 ├── .gitignore
 ├── README.md
 ├── bun.lockb
