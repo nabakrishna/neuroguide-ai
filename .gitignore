@@ -26,6 +26,7 @@ dist-ssr
 favicon2.ico
 favicon6.ico
 
+#still this is files is dev
 supabase/functions/_shared/
 supabase/functions/agents/
 supabase/functions/_shared/agents/orchestrator.ts
