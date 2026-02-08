@@ -269,7 +269,7 @@ Handles streaming chat responses with multi-agent orchestration.
 
 ---
 
-## 🔐 Authentication
+## 🔐 Authentication(now it is on simple sign in/up method)
 
 The app uses Supabase Auth with:
 - Email/password authentication
