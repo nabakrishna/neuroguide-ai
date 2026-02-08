@@ -29,3 +29,4 @@ favicon6.ico
 supabase/functions/_shared/
 supabase/functions/agents/
 supabase/functions/_shared/agents/orchestrator.ts
+supabase/functions/_shared/agents/prompts.ts
