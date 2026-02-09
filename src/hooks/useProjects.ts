@@ -1,3 +1,7 @@
+/**
+ * Custom hook to manage project data fetching and state.
+ * It handles loading states and error notifications using Supabase.
+ */
 import { useState, useEffect, useCallback } from 'react';
 import { supabase } from '@/integrations/supabase/client';
 import { useAuth } from './useAuth';
