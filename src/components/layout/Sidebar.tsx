@@ -16,6 +16,7 @@ import { useAuth } from '@/hooks/useAuth';
 import { getInitials } from '@/lib/utils';
 import { useState } from 'react';
 
+
 interface SidebarProps {
   className?: string;
 }
