@@ -321,7 +321,7 @@ npm run test -- --coverage
 
 ## 📦 Deployment
 
-Demo live on: neuroguide-ai.vercel.app
+Demo live on: https://neuroguide-ai.vercel.app/
 
 ---
 
