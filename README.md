@@ -1,4 +1,4 @@
-# NeuroGuide 
+# NeuroGuide-AI
 
 > An AI-powered research companion for machine learning practitioners — featuring research paper discovery, dataset auditing, and production-ready ML code generation.
 
