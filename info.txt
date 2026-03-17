@@ -1,4 +1,3 @@
 Open Graph (OG) image is a meta property used to define the image that appears when a web page is shared on social media platforms
 like Facebook, Twitter, LinkedIn, and others.  It ensures a consistent, visually appealing preview of your content.
 ex: <meta property="og:image" content="https://example.com/image.jpg" />   
-
