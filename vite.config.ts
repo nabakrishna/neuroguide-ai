@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 // import { componentTagger } from "lovable-tagger"; for now  the following code 6  work this instead fo this
 //------------------
-import { componentTagger } from "component-tagger";
+import { componentTagger } from "@lirankor/vite-plugin-component-tagger";   
 //---------
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
