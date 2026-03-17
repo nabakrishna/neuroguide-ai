@@ -3,12 +3,9 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 // import { componentTagger } from "lovable-tagger"; for now  the following code 6 to 12 work this instead fo this
 //------------------
-import { componentTagger } from '@nuxie/tagger';
+import { componentTagger } from 'component-tagger';
 export default defineConfig({
-  plugins: [
-    react(),
-    mode === 'development' && componentTagger(),
-  ].filter(Boolean),
+  plugins: [react(), componentTagger()],
 });
 //---------
 // https://vitejs.dev/config/
