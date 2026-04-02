@@ -27,9 +27,9 @@ favicon2.ico
 favicon6.ico
 
 #still this is files is dev
-supabase/functions/_shared/
-supabase/functions/agents/
-supabase/functions/_shared/agents/orchestrator.ts
-supabase/functions/_shared/agents/prompts.ts
+#supabase/functions/_shared/
+#supabase/functions/agents/
+#supabase/functions/_shared/agents/orchestrator.ts
+#supabase/functions/_shared/agents/prompts.ts
 info.txt
 
